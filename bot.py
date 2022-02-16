@@ -5,12 +5,12 @@ import hikari
 
 #Bot that needs cleaning
 #For example bot_to_clean = 'Bongo#3445'
-bot_to_clean = 'Bongo#3445'
+bot_to_clean = ''
 #Filter to delete the bot command messages
 #In my case ive used filter = 'b.' since b. is the bot command
-filter = 'b.'
+filter = ''
 #Token for your bot
-token = 'OTQwOTk4ODMwMTI2Njg2MjE4.YgPjdA.6DHGAPPR27BQeamiVfS95daLJmk'
+token = ''
 
 #Bot's Token
 bot = lightbulb.BotApp(token)
